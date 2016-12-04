@@ -35,4 +35,8 @@ Threefold repetition
 
 Fifty move rule
 
+<<<<<<< HEAD
 Insufficient material
+=======
+Insufficient material
+>>>>>>> ef3fbb7d76e9c1dd063abb7a13991932da983ae7
